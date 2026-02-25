@@ -12,7 +12,7 @@ The training covers the full analytics lifecycle — from foundational data conc
 
 ## Learning Path Progress
 
-![Microsoft Learn Power BI Learning Paths](6c92bb2e-2c07-4fd7-9270-1d438bfe9fe7.png)
+<img width="657" height="668" alt="image" src="https://github.com/user-attachments/assets/3d632879-adc5-406d-9b23-69110d383506" />
 
 ---
 

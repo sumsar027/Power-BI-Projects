@@ -1,4 +1,4 @@
-Link; https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/
+Link; https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?azure-portal=true&practice-assessment-type=certification#list-card-ax-7
 
 # Microsoft Learn – Power BI Data Analytics Learning Paths
 

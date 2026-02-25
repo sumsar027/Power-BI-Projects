@@ -1,5 +1,8 @@
 <img width="586" height="88" alt="image" src="https://github.com/user-attachments/assets/6d3ff391-e575-4c2b-80ac-1f071ec90e5f" />
 
+<img width="891" height="166" alt="image" src="https://github.com/user-attachments/assets/5f827662-7956-45be-b65e-e96ab98fec26" />
+
+
 https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/ 
 
 

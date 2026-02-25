@@ -14,3 +14,6 @@ This repository documents my completion of the Microsoft Learn Data Analytics le
 
 ## Outcome
 Through this learning path, I developed the ability to transform raw data into actionable insights using Microsoft’s analytics ecosystem.
+
+
+<img width="657" height="668" alt="image" src="https://github.com/user-attachments/assets/3d632879-adc5-406d-9b23-69110d383506" />
